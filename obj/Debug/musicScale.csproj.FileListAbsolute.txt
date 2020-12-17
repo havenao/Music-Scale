@@ -1,0 +1,6 @@
+/Users/haven/Desktop/Academy/Exercises/musicScale/bin/Debug/musicScale.exe
+/Users/haven/Desktop/Academy/Exercises/musicScale/bin/Debug/musicScale.pdb
+/Users/haven/Desktop/Academy/Exercises/musicScale/obj/Debug/musicScale.csprojAssemblyReference.cache
+/Users/haven/Desktop/Academy/Exercises/musicScale/obj/Debug/musicScale.csproj.CoreCompileInputs.cache
+/Users/haven/Desktop/Academy/Exercises/musicScale/obj/Debug/musicScale.exe
+/Users/haven/Desktop/Academy/Exercises/musicScale/obj/Debug/musicScale.pdb
